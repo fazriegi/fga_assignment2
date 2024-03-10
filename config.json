@@ -7,6 +7,6 @@
         "user": "egi",
         "password": "123",
         "port": 3306,
-        "name": "fga_assignment2"
+        "name": "orders_by"
     }
 }
