@@ -1,0 +1,12 @@
+{
+    "web": {
+        "port": 8080
+    },
+    "database": {
+        "host": "localhost",
+        "user": "egi",
+        "password": "123",
+        "port": 3306,
+        "name": "fga_assignment2"
+    }
+}
